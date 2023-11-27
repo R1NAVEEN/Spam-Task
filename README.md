@@ -19,6 +19,9 @@ This corpus has been collected from free or free for research sources at the Int
 
 -> Finally, we have incorporated the SMS Spam Corpus v.0.1 Big. It has 1,002 SMS ham messages and 322 spam messages and it is public available at: [Web Link]. This corpus has been used in the following academic researches:
 
+Image: ![image](https://github.com/R1NAVEEN/Spam-Task/assets/111370828/70bda105-c650-4ddf-89b7-f16b67981974)
+
+
 ### Acknowledgements
 
 The original dataset can be found here. The creators would like to note that in case you find the dataset useful, please make a reference to previous paper and the web page: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/ in your papers, research, etc.
